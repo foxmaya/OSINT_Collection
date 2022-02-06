@@ -413,6 +413,7 @@ This is a maintained collection of free actionable resources for those conductin
 - [FreeTranslation](http://www.freetranslation.com/)
 - [Free Translator](http://www.free-translator.com/)
 - [Free Website Translation](http://free-website-translation.com/)
+- [Hindi Voice Typing](https://foxmaya.com/tools/hindi-voice-typing)
 - [Frengly](http://frengly.com/)
 - [Google Input Tools](https://www.google.com/inputtools/try)
 - [Google Translate](https://translate.google.com/)
